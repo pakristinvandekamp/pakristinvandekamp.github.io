@@ -3820,7 +3820,7 @@ ul.ddmenu ul {
   .fixed-header .header-menu ul li a {
 	text-decoration: none;
 	display: block;
-	padding: 8px 0; /*メニューの高さ*/
+	padding: 12px 0; /*メニューの高さ*/
 	color:  #636363; /*メニューの文字色*/
 	font-size: 3.5vw; /*文字の大きさが可変*/
   }
