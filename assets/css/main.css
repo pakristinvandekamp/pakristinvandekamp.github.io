@@ -3970,7 +3970,7 @@ ul.ddmenu ul {
 		ul.newsbox{
 			height: 120px;
 			overflow: auto;
-			font-size: small;
+			font-size: medium;
 			text-align: left;
 		}
 
